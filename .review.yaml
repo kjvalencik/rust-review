@@ -1,0 +1,9 @@
+reviews:
+  - name: Maintainers
+    owners:
+      - @kjvalencik
+  - name: Package
+    globs:
+      - package*.json
+    owners:
+      - @github-actions
